@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Talks - Nidhi Raheja</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Tech Talks</h1>
+        <p>Welcome to Tech Talks by Nidhi Raheja</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi there! I'm Nidhi Raheja, a passionate tech enthusiast with expertise in Python, Data Science, Machine Learning, Artificial Intelligence, and Natural Language Processing (NLP). I love to share knowledge and insights about the latest trends and advancements in the tech industry through my Tech Talks.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>Data Science</li>
+            <li>Machine Learning</li>
+            <li>Artificial Intelligence</li>
+            <li>Natural Language Processing (NLP)</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you have any questions or would like to connect, feel free to reach out:</p>
+        <p>Email: nidhi@example.com</p>
+        <p>Phone: +1234567890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Tech Talks - Nidhi Raheja</p>
+    </footer>
+
+</body>
+</html>
